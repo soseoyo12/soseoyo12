@@ -34,12 +34,3 @@
 | `2025.07`  | 2025 KAIST GRAFFITI AI StartUp **은상** 수상 |
 
 </div>
-<br>
-
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-    <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=soseoyo12&bg_color=60,74a7fe,d4e3fe&title_color=ffffff&text_color=ffffff&show_icons=true" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soseoyo12&layout=compact&bg_color=60,74a7fe,d4e3fe&title_color=ffffff&text_color=ffffff" />
-    </div> 
-</div>
