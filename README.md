@@ -1,5 +1,5 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74a7fe,100:0042aa&height=240&text=Hello%20soseoyo%20world!&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:74a7fe,100:0042aa&height=240&text=soseoyo&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
 <br>
 
