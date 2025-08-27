@@ -26,6 +26,16 @@
 </div>
 <br>
 
+<div style="text-align: left;">
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Awards </h2>
+
+| Date       | Award                                      |
+| :--------- | :----------------------------------------- |
+| `2025.07`  | 2025 KAIST GRAFFITI AI StartUp **은상** 수상 |
+
+</div>
+<br>
+
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
     <div align="center">
