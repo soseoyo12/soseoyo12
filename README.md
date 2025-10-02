@@ -55,16 +55,18 @@
   _(자기소개서 작성에 막막함을 느끼는 취준생들을 위해, AI가 반복 질문을 통해 경험을 이끌어내고  
   여러 HR 페르소나가 평가하여 본인도 몰랐던 강점을 도출하는 서비스)_
 
-- **Moyera**  
+- **Moyera - 모여라 **  
   A service that integrates with Google Calendar in one click and analyzes multiple calendars to suggest the optimal schedule.  
   _(구글 캘린더 원클릭 연동으로 여러 캘린더를 분석하여 최적의 일정을 도출하는 서비스)_
+  https://www.moyera.site/
 
-- **BapMukJa (밥묵자)**  
+- **BapMukJa - 밥묵자**  
   A service that collects and compares menus from student cafeterias, faculty cafeterias, and dormitory cafeterias.  
   Provides a convenient widget feature for quick access to daily meals.  
   <sub>iOS - Song Seongyong | Backend - Oh Subin | Design - Kim Chohee</sub>  
   _(동문 학생들의 불편을 해소하기 위해 학생식당 / 교직원식당 / 기숙사식당의 메뉴를 한눈에 비교하고  
-  위젯으로 간편하게 확인할 수 있도록 만든 서비스)_  
+  위젯으로 간편하게 확인할 수 있도록 만든 서비스)_
+  https://apps.apple.com/kr/app/%EB%B0%A5%EB%AC%B5%EC%9E%90/id6751774906?l=en-GB
 
 </div>
 <br>
