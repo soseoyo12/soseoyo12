@@ -41,8 +41,7 @@
 
 | Date       | Award                                      |
 | :--------- | :----------------------------------------- |
-| `2025.07`  | 2025 KAIST GRAFFITI AI StartUp **Silver Prize**  
-(2025 KAIST GRAFFITI AI 창업경진대회 **은상 수상**) |
+| `2025.07`  | 2025 KAIST GRAFFITI AI StartUp **Silver Prize** |
 
 </div>
 <br>
