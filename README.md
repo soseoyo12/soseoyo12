@@ -41,6 +41,7 @@
 
 | Date       | Award                                      |
 | :--------- | :----------------------------------------- |
+| `2025.12`  | 2025 Inha Topic Research Competition **Grand Prize** |
 | `2025.07`  | 2025 KAIST GRAFFITI AI StartUp **Silver Prize** |
 
 </div>
