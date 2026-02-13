@@ -6,7 +6,8 @@
 
 <div align="center">
   
-  **인하대학교 전기전자공학부** | 부전공: AI융합데이터 | iOS Developer
+  ** iOS Developer** <br>
+  인하대학교 전기전자공학부 | 부전공: AI융합데이터 
   
   [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/ios/)
   [![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white)](https://developer.apple.com/swift/)
