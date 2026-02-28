@@ -69,7 +69,7 @@
 
 <sub>iOS 송성용 | Backend 오수빈 | Design 김초희</sub>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)]([https://github.com/TEAM-Cherrish/Cherrish-iOS](https://github.com/Bobmoo-GamTwi/Bobmoo_iOS))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bobmoo-GamTwi/Bobmoo_iOS)
 [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kr/app/%EB%B0%A5%EB%AC%B5%EC%9E%90/id6751774906?l=en-GB)
 
 ---
