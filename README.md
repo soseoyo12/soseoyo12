@@ -1,4 +1,3 @@
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:74a7fe,100:0042aa&height=240&width=1000&text=soseoyo&animation=fadeIn&fontColor=000000&fontSize=50" />
 </div>
 
@@ -6,7 +5,7 @@
 
 <div align="center">
   
-  ** iOS Developer** <br>
+  **Product Engineer** <br>
   인하대학교 전기전자공학부 | 부전공: AI융합데이터 
   
   [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/ios/)
@@ -34,6 +33,7 @@
 | `2025.03` ~ `2025.11` | **IGRUS** 운영진 |
 
 > **IGRUS**: 인하대학교 300명 규모 개발 중앙동아리
+> **SOPT**: 전국 최대 규모 IT 벤처 창업 연합 동아리
 
 <br>
 
@@ -93,8 +93,9 @@
 <br>
 
 ## 📜 자격증
-
-| 날짜 | 자격증 |
-| :--- | :--- |
-| `2026.02` | Claude Code in Action |
-| `2025.08` | AI-POT 2급 |
+| 날짜 | 자격증 | 발행처 |
+| :--- | :--- | :--- |
+| `2026.03` | Google Analytics Certification | <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/680f65c1-9a5d-488d-8d42-42bc82480543" /> |
+| `2026.03` | AI Fluency for students |<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/05c0bf4d-0753-42d3-aacd-67f46011d959" /> |
+| `2026.02` | Claude Code in Action | <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/c567816a-7573-4d33-9a6b-b833968883c5" /> |
+| `2025.08` | AI-POT 2급 | <img width="25" alt="AI-POT" src="https://github.com/user-attachments/assets/f198aa9b-e91e-4bfd-8bcd-c8a1dc68f0a0" /> |
