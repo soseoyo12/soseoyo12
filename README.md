@@ -85,6 +85,20 @@
 
 ---
 
+### 🎮 마인크래프트 서버 인프라
+> 개인 인프라 프로젝트.  
+> 클라우드 성능 한계 → 동아리방 iMac으로 전환 → 학교망 포트포워딩 불가까지,  
+> 부딪힌 문제를 하나씩 풀어가며 "서비스를 운영하는 감각"을 직접 경험
+
+`Oracle Cloud` `Docker Compose` `Paper` `Playit.gg` `Tailscale` `SSH` `AI Agent`
+
+- **서버 환경**: `itzg/minecraft-server` 이미지로 Paper 서버 + 플러그인 8종을 Docker Compose 한 파일로 패키징 → 서버 이전 시 재세팅 불필요
+- **외부 접속**: 학교망 포트포워딩 제약을 Playit.gg 터널링으로 우회
+- **원격 유지보수**: Tailscale로 기기를 private network로 묶어 학교 밖에서도 SSH 접속
+- **운영 자동화**: AI Agent가 서버 상태·OP 권한·에러 로그를 감지해 알림, 반복 작업 위임
+
+---
+
 ### 📅 모여라
 > 구글 캘린더 원클릭 연동으로 여러 캘린더를 분석하여 최적의 일정을 도출하는 서비스
 
