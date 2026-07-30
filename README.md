@@ -13,14 +13,8 @@
   [![SwiftUI](https://img.shields.io/badge/SwiftUI-0071e3?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
   <img src="https://img.shields.io/badge/uikit-%232396F3.svg?&style=for-the-badge&logo=uikit&logoColor=white" />
 <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 <img src="https://img.shields.io/badge/Amplitude-1E61F0?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
 <br>
@@ -87,12 +81,10 @@
 
 ---
 
-### 🎮 마인크래프트 서버 인프라
-> 개인 인프라 프로젝트.  
-> 클라우드 성능 한계 → 동아리방 iMac으로 전환 → 학교망 포트포워딩 불가까지,  
-> 부딪힌 문제를 하나씩 풀어가며 "서비스를 운영하는 감각"을 직접 경험
+### 🎮 마인크래프트 서버
+> 클라우드 성능 한계 → 동아리방 iMac으로 전환 → 학교망 포트포워딩 불가 -> 터널링을 통한 경유 -> TailScale를 통한 외부 관리 -> AI Agent를 붙여 디스코드 손 쉽게 서버 관리  
 
-`Oracle Cloud` `Docker Compose` `Paper` `Playit.gg` `Tailscale` `SSH` `AI Agent`
+`Oracle Cloud` `Docker Compose` `Tailscale` `SSH` `AI Agent`
 
 - **서버 환경**: `itzg/minecraft-server` 이미지로 Paper 서버 + 플러그인 8종을 Docker Compose 한 파일로 패키징 → 서버 이전 시 재세팅 불필요
 - **외부 접속**: 학교망 포트포워딩 제약을 Playit.gg 터널링으로 우회
